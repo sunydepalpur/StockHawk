@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/somesh/Desktop/udacity-stock-hawk-master/app/build/intermediates/exploded-aar/com.diogobernardino/williamchart/2.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1f159979917aba68421fb945854049367d206410">
+        <dex dex="/Users/somesh/Desktop/udacity-stock-hawk-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.diogobernardino-williamchart-2.2_f16b2bbe1c6a2da17652bcd0f6be4218afbc8a82/classes.dex" />
+    </item>
+    <item
+        jar="/Users/somesh/Desktop/udacity-stock-hawk-master/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/Users/somesh/Desktop/udacity-stock-hawk-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.3.0_b5437d48d4a28cf72381c3d1dcac0284233a7959/classes.dex" />
+    </item>
+    <item
+        jar="/Users/somesh/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/somesh/Desktop/udacity-stock-hawk-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_3755ee9c62014abd29ecc9fdc6d56d131bf831bb/classes.dex" />
+    </item>
+    <item
+        jar="/Users/somesh/Desktop/udacity-stock-hawk-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/somesh/Desktop/udacity-stock-hawk-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_6e4e2e00543da79ef0ddd1f168bfb130cc96716b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/somesh/Desktop/udacity-stock-hawk-master/app/build/intermediates/exploded-aar/net.simonvt.schematic/schematic/0.6.3/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f6f5730f19d22f177096c8d134d4892b0fbd631d">
+        <dex dex="/Users/somesh/Desktop/udacity-stock-hawk-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/net.simonvt.schematic-schematic-0.6.3_fdd05d2f717ec63f0415319a8fc7b245116787f3/classes.dex" />
+    </item>
+    <item
+        jar="/Users/somesh/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.5.0/4de2b4ed3445c37ec1720a7d214712e845a24636/okhttp-2.5.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="/Users/somesh/Desktop/udacity-stock-hawk-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-2.5.0_8ebef30ccafe3c08e051d782ea067b7f1102906f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/somesh/Desktop/udacity-stock-hawk-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/somesh/Desktop/udacity-stock-hawk-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-8.4.0_84714a70e2b0627f6c7c6fc955c9756e4720995e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/somesh/Desktop/udacity-stock-hawk-master/app/build/intermediates/exploded-aar/me.zhanghai.android.materialprogressbar/library/1.1.5/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4a9f97c742d058ca55948643c06f447895a9af76">
+        <dex dex="/Users/somesh/Desktop/udacity-stock-hawk-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/me.zhanghai.android.materialprogressbar-library-1.1.5_5eea3c3fe12b1d2af80a82a069013e68544c06f0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/somesh/Desktop/udacity-stock-hawk-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/somesh/Desktop/udacity-stock-hawk-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.4.0_42645655b2637c4c41e8af824b48aece2337f570/classes.dex" />
+    </item>
+    <item
+        jar="/Users/somesh/Desktop/udacity-stock-hawk-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="/Users/somesh/Desktop/udacity-stock-hawk-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-measurement-8.4.0_16917bc7d7b3a4d735f8b170430c13c759478959/classes.dex" />
+    </item>
+    <item
+        jar="/Users/somesh/Desktop/udacity-stock-hawk-master/app/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.7/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a94e3ac390a37f149a235f7f5e1b49b65151c0bf">
+        <dex dex="/Users/somesh/Desktop/udacity-stock-hawk-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.afollestad.material-dialogs-core-0.8.5.7_19d7a3a0a089950d1b61ae61425e9ffb3b17fb7e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/somesh/Desktop/udacity-stock-hawk-master/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/Users/somesh/Desktop/udacity-stock-hawk-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.3.0_4abea9bb8a49364289b32ccba450dcd95f0aa046/classes.dex" />
+    </item>
+    <item
+        jar="/Users/somesh/Android SDK/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/somesh/Desktop/udacity-stock-hawk-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_884bd273eed6083fa7a1c8a9a2f48f2be0cac38d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/somesh/Desktop/udacity-stock-hawk-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e09695195ed1311b4010bae073ff38184c7156e6">
+        <dex dex="/Users/somesh/Desktop/udacity-stock-hawk-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_84b0cc1eaa826d5e0f6c57991a465240a28fafd3/classes.dex" />
+    </item>
+    <item
+        jar="/Users/somesh/Desktop/udacity-stock-hawk-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="/Users/somesh/Desktop/udacity-stock-hawk-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-8.4.0_c34c9f5ff14764e725eafcc3b26c168761253e23/classes.dex" />
+    </item>
+    <item
+        jar="/Users/somesh/Desktop/udacity-stock-hawk-master/app/build/intermediates/exploded-aar/com.melnykov/floatingactionbutton/1.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="65620ba5e576dcec2c86efa440b00d042a27383b">
+        <dex dex="/Users/somesh/Desktop/udacity-stock-hawk-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.melnykov-floatingactionbutton-1.2.0_dbd4dc61431cb1e44543e9f7927887df4dd819e8/classes.dex" />
+    </item>
+    <item
+        jar="/Users/somesh/Desktop/udacity-stock-hawk-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/somesh/Desktop/udacity-stock-hawk-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_e6076337a7a9274d782427597ebb03ca36186019/classes.dex" />
+    </item>
+    <item
+        jar="/Users/somesh/Desktop/udacity-stock-hawk-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/somesh/Desktop/udacity-stock-hawk-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_344018df00eda468b69e6426c1ff78df5fbb02f4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/somesh/Desktop/udacity-stock-hawk-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/somesh/Desktop/udacity-stock-hawk-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_c37a228e4115c0c74944e0c1e4eb6138aa895958/classes.dex" />
+    </item>
+    <item
+        jar="/Users/somesh/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/somesh/Desktop/udacity-stock-hawk-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-2.4.0_302bb780df38e2065f0c7a268b1ce5ac03993ec4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/somesh/Desktop/udacity-stock-hawk-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/somesh/Desktop/udacity-stock-hawk-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_235bd4c3d740579892aab45cd3b5830b37745912/classes.dex" />
+    </item>
+    <item
+        jar="/Users/somesh/.gradle/caches/modules-2/files-2.1/net.simonvt.schematic/schematic-annotations/0.6.3/4df5a4bbbacf9ea3c4aebf7d3c61465afb648e36/schematic-annotations-0.6.3.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4df5a4bbbacf9ea3c4aebf7d3c61465afb648e36">
+        <dex dex="/Users/somesh/Desktop/udacity-stock-hawk-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/schematic-annotations-0.6.3_ec43409e512868df55a0fe717d1b447d5aef34c6/classes.dex" />
+    </item>
+    <item
+        jar="/Users/somesh/Desktop/udacity-stock-hawk-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="82471b24982fb79409a13829d64256bee71e5d3a">
+        <dex dex="/Users/somesh/Desktop/udacity-stock-hawk-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c53c35e744b806559c0981572dd315c71e828129/classes.dex" />
+    </item>
+
+</items>
