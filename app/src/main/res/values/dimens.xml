@@ -12,4 +12,10 @@ Refer to App Widget Documentation for margin information
 http://developer.android.com/guide/topics/appwidgets/index.html#CreatingLayout
     -->
     <dimen name="widget_margin">8dp</dimen>
+
+    <!-- Paddings -->
+    <dimen name="activity_padding_left">16dp</dimen>
+    <dimen name="activity_padding_right">16dp</dimen>
+    <!-- Item Height -->
+    <dimen name="item_list_height">72dp</dimen>
 </resources>
